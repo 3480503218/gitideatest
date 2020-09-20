@@ -7,5 +7,6 @@ public class dhm {
         System.out.println("git 更新2");
         System.out.println("fenxhi");
         System.out.println("HEBING01");
+        System.out.println("hebing02");
     }
 }
