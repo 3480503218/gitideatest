@@ -9,5 +9,8 @@ public class dhm {
         System.out.println("HEBING01");
         System.out.println("hebing02");
         System.out.println("今晚2121");
+        System.out.println("hebing03");
+        System.out.println("克隆");
     }
+     
 }
