@@ -12,6 +12,7 @@ public class dhm {
         System.out.println("hebing03");
         System.out.println("克隆");
         System.out.println("kkas");
+        System.out.println("saibu");
     }
      
 }
