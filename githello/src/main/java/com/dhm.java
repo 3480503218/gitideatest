@@ -13,6 +13,7 @@ public class dhm {
         System.out.println("克隆");
         System.out.println("kkas");
         System.out.println("saibu");
+        System.out.println("sai");
     }
      
 }
